@@ -14,13 +14,13 @@
 
 .schedule {
     grid-column: schedule-s/schedule-e;
-    position: absolute;
+    position: relative;
     height: 100%;
     width: 100%;
 }
 
 .gradient {
-    positon: absolute;
+    position: absolute;
     height: 100%;
     width: 100%;
     background: linear-gradient(120deg, $color-purple 0%, $color-light-blue 100%);

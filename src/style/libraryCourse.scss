@@ -1,3 +1,4 @@
+
 .library-course {
     display: grid;
     grid-template-columns: repeat(auto-fit, 1fr);
@@ -5,9 +6,8 @@
 
     &__title {
         grid-row: 1/2;
-
     }
-    &__discription {
+    &__description {
         grid-row: 2/3;
     }
 }
