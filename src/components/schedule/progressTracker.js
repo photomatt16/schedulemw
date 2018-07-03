@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class ProgressTrack extends Component {
+class ProgressTracker extends Component {
     render() {
         return (
             <div className="progress-tracker">
@@ -13,4 +13,4 @@ class ProgressTrack extends Component {
     }
 }
 
-export default ProgresTracker;
+export default ProgressTracker;

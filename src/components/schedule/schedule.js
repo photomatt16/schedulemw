@@ -4,7 +4,6 @@ import Gradient from '../gradients';
 import ScheduleCourse from './scheduleCourse';
 import ProgressTracker from './progressTracker';
 
-
 class Schedule extends Component {
     render() {
         return (
