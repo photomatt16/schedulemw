@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Gradient extends COmponent {
+class Gradient extends Component {
     render() {
         return <div className="gradient"></div>
     }

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Gradient from './gradients';
 
-class Schedule extends COmponent {
+class Schedule extends Component {
     renter() {
         return (
             <div className="schedule">
